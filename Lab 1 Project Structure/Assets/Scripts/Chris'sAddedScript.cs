@@ -7,7 +7,14 @@ public class Chris'sAddedScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        KLJN IU  guoyasdgnadsuiy adsgn uyadSuyiads vadsgtyuv adsytv hasgv adshg adsvjs 
+
+       
+=======
+  KLJN IU  guoyasdgnadsuiy adsgn uyadSuyiads vadsgtyuv adsytv hasgv adshg adsvjs 
+        Ha ha big funny
+            
+
+ 
     }
 
     // Update is called once per frame
