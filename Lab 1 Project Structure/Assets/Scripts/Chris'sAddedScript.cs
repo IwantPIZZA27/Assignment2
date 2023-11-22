@@ -8,10 +8,20 @@ public class Chris'sAddedScript : MonoBehaviour
     void Start()
     {
 
+
         //goof ahhh funny kills me every time died like yo moma in yo bed
 
         Ha ha big funny
             
+
+
+       
+
+  KLJN IU  guoyasdgnadsuiy adsgn uyadSuyiads vadsgtyuv adsytv hasgv adshg adsvjs 
+        Ha ha big funny
+            
+
+ 
 
     }
 
@@ -21,3 +31,5 @@ public class Chris'sAddedScript : MonoBehaviour
         
     }
 }
+
+LMaothisgetamirite
