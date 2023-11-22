@@ -8,6 +8,7 @@ public class Chris'sAddedScript : MonoBehaviour
     void Start()
     {
         Ha ha big funny
+            
     }
 
     // Update is called once per frame
