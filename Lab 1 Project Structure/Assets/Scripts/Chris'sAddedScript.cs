@@ -7,7 +7,7 @@ public class Chris'sAddedScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        //goof ahhh funny kills me every time died like yo moma in yo bed
     }
 
     // Update is called once per frame
